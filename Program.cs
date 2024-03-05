@@ -11,11 +11,11 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {         
             Console.WriteLine("Введите значение x:");
-            /*double x = double.Parse(Console.ReadLine());
+            double x = double.Parse(Console.ReadLine());
 
             double result = 8 * Math.Sin(2 * x) - Math.Cos(2 * x);
 
-            Console.WriteLine("Результат вычисления функции: {result});*/
+            Console.WriteLine("Результат вычисления функции:" , result);
             Console.ReadKey();
         }
     }
