@@ -9,10 +9,9 @@ namespace ConsoleApp4
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("РР");
-            /*Console.WriteLine("Введите значение x:");
-            double x = double.Parse(Console.ReadLine());
+        {         
+            Console.WriteLine("Введите значение x:");
+            /*double x = double.Parse(Console.ReadLine());
 
             double result = 8 * Math.Sin(2 * x) - Math.Cos(2 * x);
 
